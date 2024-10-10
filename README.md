@@ -1,5 +1,4 @@
-# BusinessIntelligence-Portfolio
-Business Intelligence Portfolio
+# Business Intelligence Portfolio.
 
 ## Welcome to my Business Intelligence Portfolio.
 
@@ -13,5 +12,9 @@ Welcome to my BI portfolio! Here, you'll find a collection of projects that show
 
 I invite you to explore my work, provide feedback, and connect with me for collaboration opportunities. Thank you for visiting!
 
-Best,
+Best,  
 Rodrigo.
+
+
+
+# Projects.
