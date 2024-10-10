@@ -33,7 +33,7 @@ Cyclistic has captured data points for every trip taken by their customers, incl
 - The rented bike’s identification number
 - The type of customer (either a one-time customer, or a subscriber)
 
-The dataset includes millions of rides, so the team wants a dashboard that summarizes key insights. Business plans that are driven by customer insights are more successful than plans driven by just internal staff observations.
+The dataset includes millions of rides, so the team wants a dashboard that summarizes key insights. Business plans that are driven by customer insights are more successful than plans driven by just internal staff observations.  
 
 ![Dashboard](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/Cyclistic-Dashboard.png)
 
@@ -50,8 +50,8 @@ This fictional dataset is a version of actual data the team works with. Because 
 - Number of repeat calls after first contact
 - Call type
 - Market city
-- Date
+- Date  
 
-- ![Dashboard](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/GoogleFiber-Dashboard.png)
+![Dashboard](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/GoogleFiber-Dashboard.png)
 
 [Go to the Google Fiber project.](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/README.md)
