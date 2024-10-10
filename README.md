@@ -36,7 +36,7 @@ Cyclistic has captured data points for every trip taken by their customers, incl
 The dataset includes millions of rides, so the team wants a dashboard that summarizes key insights. Business plans that are driven by customer insights are more successful than plans driven by just internal staff observations.  
 
 
-*This project is part of the [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/TRZ3SD3KR8QN](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/GoogleBI_TRZ3SD3KR8QN.pdf) certification  
+*This project is part of the [Google Business Intelligence](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/GoogleBI_TRZ3SD3KR8QN.pdf) certification  
 
 ![Dashboard](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/Cyclistic-Dashboard.png)  
 
@@ -56,7 +56,7 @@ This fictional dataset is a version of actual data the team works with. Because 
 - Date  
 
 
-*This project is part of the [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/TRZ3SD3KR8QN](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/GoogleBI_TRZ3SD3KR8QN.pdf) certification  
+*This project is part of the [Google Business Intelligence](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/GoogleBI_TRZ3SD3KR8QN.pdf) certification  
 
 ![Dashboard](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/GoogleFiber-Dashboard.png)
 
