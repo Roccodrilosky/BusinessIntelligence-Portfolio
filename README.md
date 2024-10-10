@@ -35,7 +35,10 @@ Cyclistic has captured data points for every trip taken by their customers, incl
 
 The dataset includes millions of rides, so the team wants a dashboard that summarizes key insights. Business plans that are driven by customer insights are more successful than plans driven by just internal staff observations.  
 
-![Dashboard](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/Cyclistic-Dashboard.png)
+
+*This project is part of the **[Google Business Intelligence]**(https://www.coursera.org/account/accomplishments/professional-cert/TRZ3SD3KR8QN) certification  
+
+![Dashboard](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/Cyclistic-Dashboard.png)  
 
 [Go to the Cyclistic project.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/README.md)
 
@@ -51,6 +54,9 @@ This fictional dataset is a version of actual data the team works with. Because 
 - Call type
 - Market city
 - Date  
+
+
+*This project is part of the **[Google Business Intelligence]**(https://www.coursera.org/account/accomplishments/professional-cert/TRZ3SD3KR8QN) certification  
 
 ![Dashboard](https://github.com/Roccodrilosky/BusinessIntelligence-Portfolio/blob/main/GoogleFiber-Dashboard.png)
 
